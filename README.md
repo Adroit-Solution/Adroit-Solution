@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm Vishesh, a Tech Enthusiast with a passion for 
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adroit-Solution&show_icons=true&theme=radical)](https://github.com/Adroit-Solution)
-[![Vishesh Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Adroit-Solution&hide=css,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=radical&show_icons=true)](https://github.com/Adroit-Solution)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adroit-Solution&show_icons=true&theme=dracula)](https://github.com/Adroit-Solution)
+[![Vishesh Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Adroit-Solution&hide=css,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=dracula&show_icons=true)](https://github.com/Adroit-Solution)
 
 
 ## 📫 Let's Connect
