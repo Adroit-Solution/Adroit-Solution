@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm Vishesh, a Tech Enthusiast with a passion for 
 ## 📫 Let's Connect
 
 - 📧 Email: agrawalvishesh9271@gmail.com
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/agrawal-vishesh/)
+- LinkedIn: [[Vishesh Agrawal]](https://www.linkedin.com/in/agrawal-vishesh/)
 
 ## 🚀 Let's Collaborate!
 
