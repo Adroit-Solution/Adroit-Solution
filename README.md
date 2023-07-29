@@ -1,16 +1,36 @@
-### Hi there 👋
+# Vishesh Agrawal
 
-<!--
-**Adroit-Solution/Adroit-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, World!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Vishesh, a Tech Enthusiast with a passion for Backend developer and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on honing my skills in .NET and web technologies like HTML, CSS, and JavaScript.
+- 🌱 I’m eager to learn and grow as a developer and data scientist.
+- 📊 I enjoy working with data analysis and visualization tools to derive actionable insights and identify patterns and trends.
+
+## 💼 Experience
+
+- Created visually appealing and user-friendly websites with a proven track record in web development.
+- Utilized data to drive business insights, and leveraged analytical skills to identify patterns and trends.
+
+## 📚 Education
+
+- Pursuing a degree in Information Technology.
+
+## 🛠️ Skills
+
+- Programming Languages: .NET, HTML, CSS, JavaScript.
+- Tools : Visual Studio 2022, VS Code, Postman.
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adroit-Solution&show_icons=true&theme=radical)](https://github.com/Adroit-Solution)
+
+## 📫 Let's Connect
+
+- 📧 Email: agrawalvishesh9271@gmail.com
+- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/agrawal-vishesh/)
+
+## 🚀 Let's Collaborate!
+
+I'm always interested in exciting projects and collaboration opportunities. Feel free to reach out to me through email or LinkedIn. Let's build something great together!
