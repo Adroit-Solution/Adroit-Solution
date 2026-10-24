@@ -1,38 +1,23 @@
-# Vishesh Agrawal
+# Hi, I'm Vishesh
 
-## 👋 Hello, World!
+Senior Software Engineer at **TatvaSoft**, building enterprise software with .NET, React and Azure. Outside work I compete on LeetCode and write about .NET.
 
-Welcome to my GitHub profile! I'm Vishesh, a Tech Enthusiast with a passion for Backend developer and data science.
+### What I work on
+- .NET microservices with asynchronous messaging over Azure Service Bus
+- GPT-powered agents on Azure AI Foundry, deployed with Bicep and Azure DevOps
+- Microsoft 365 integrations: Microsoft Graph, Entra ID and SharePoint
 
-- 🔭 I’m currently working on honing my skills in .NET and web technologies like HTML, CSS, and JavaScript.
-- 🌱 I’m eager to learn and grow as a developer and data scientist.
-- 📊 I enjoy working with data analysis and visualization tools to derive actionable insights and identify patterns and trends.
+### Open source
+- **[SheetTelemetry](https://github.com/Adroit-Solution/SheetTelemetry)**: stream .NET logs into Google Sheets via Microsoft.Extensions.Logging. Available on [NuGet](https://www.nuget.org/packages/SheetTelemetry).
 
-## 💼 Experience
+### Problem solving
+- [LeetCode](https://leetcode.com/u/Vishesh1729): contest rating 1700+ (top 11%), 580+ problems solved
 
-- Created visually appealing and user-friendly websites with a proven track record in web development.
-- Utilized data to drive business insights, and leveraged analytical skills to identify patterns and trends.
+### Writing
+- Articles on .NET, SQL Server and API design on [GeeksforGeeks](https://www.geeksforgeeks.org/user/agrawalvishesh9271/) and Medium
 
-## 📚 Education
+### Tech
+C# · .NET · ASP.NET Core · EF Core · React · Angular · TypeScript · SQL Server · PostgreSQL · Azure · Docker · Bicep
 
-- Pursuing a degree in Information Technology.
-
-## 🛠️ Skills
-
-- Programming Languages: .NET, HTML, CSS, JavaScript.
-- Tools : Visual Studio 2022, VS Code, Postman.
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adroit-Solution&show_icons=true&theme=dracula)](https://github.com/Adroit-Solution)
-[![Vishesh Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Adroit-Solution&hide=css,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=dracula&show_icons=true)](https://github.com/Adroit-Solution)
-
-
-## 📫 Let's Connect
-
-- 📧 Email: agrawalvishesh9271@gmail.com
-- LinkedIn: [Vishesh-Agrawal](https://www.linkedin.com/in/agrawal-vishesh/)
-
-## 🚀 Let's Collaborate!
-
-I'm always interested in exciting projects and collaboration opportunities. Feel free to reach out to me through email or LinkedIn. Let's build something great together!
+### Connect
+[LinkedIn](https://www.linkedin.com/in/agrawal-vishesh) · agrawalvishesh9271@gmail.com
